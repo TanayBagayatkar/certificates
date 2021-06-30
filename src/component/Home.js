@@ -1,4 +1,11 @@
 import React from "react";
+import Paper from "@material-ui/core/Paper";
+import AppBar from "@material-ui/core/AppBar";
+import Button from "@material-ui/core/Button";
+
+// import {SkipNextRoundedIcon} from '@material-ui/icons';
+import { AccessAlarm, ThreeDRotation, SkipNext, SkipPreviousRounded } from '@material-ui/icons';
+// import SkipPreviousRoundedIcon from '@material-ui/icons/SkipPreviousRounded';
 
 let Certificates = [
   {
@@ -71,28 +78,35 @@ function Home(props) {
   const getData = () => {
     // let temp = id;
     let source = `/images/${position.name}`;
-    return <img className="certificate" src={source} alt="certificate" />;
+    return (
+      <div className="body-certi">
+        <Paper elevation={10}>
+          <img className="certificate" src={source} alt="certificate" />
+        </Paper>
+      </div>
+    );
   };
   return (
     <div>
-      <button
+      {/* <AppBar >Tanay Bagayatkar</AppBar> */}
+      <Button
         onClick={() => {
           prev();
         }}
         disabled={id === 0}
       >
-        Prev
-      </button>
-      <button
+        Prev <SkipPreviousRounded/>
+      </Button>
+      <Button
         onClick={() => {
           next();
         }}
         disabled={id === Certificates.length - 1}
       >
-        Next
-      </button>
-      <button onClick={() => start()}>Goto Start</button>
-      <h2>Certificate No. {id + 1}</h2>
+        Next <SkipNext/>
+      </Button>
+      <Button onClick={() => start()} disabled={id===0}>Goto Start</Button>
+      {/* <h2>Certificate No. {id + 1}</h2> */}
 
       {getData()}
     </div>

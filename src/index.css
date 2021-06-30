@@ -1,11 +1,15 @@
 body {
   margin: 0;
   text-align: center;
+  padding: 5px;
 }
-
+.body-certi{
+  padding: 20px;
+}
 .certificate{
-  max-width: 90%;
-  max-height: 90vh;
+  max-width: 100%;
+  max-height: 80vh;
+  
   align-self: center;
 }
 
