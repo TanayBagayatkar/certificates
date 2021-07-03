@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/certificates/static/css/main.083d9848.chunk.css",
-    "main.js": "/certificates/static/js/main.937cb234.chunk.js",
-    "main.js.map": "/certificates/static/js/main.937cb234.chunk.js.map",
+    "main.js": "/certificates/static/js/main.68d42729.chunk.js",
+    "main.js.map": "/certificates/static/js/main.68d42729.chunk.js.map",
     "runtime-main.js": "/certificates/static/js/runtime-main.3938d91f.js",
     "runtime-main.js.map": "/certificates/static/js/runtime-main.3938d91f.js.map",
     "static/js/2.d48397b9.chunk.js": "/certificates/static/js/2.d48397b9.chunk.js",
@@ -11,12 +11,13 @@
     "static/js/3.f72063d9.chunk.js.map": "/certificates/static/js/3.f72063d9.chunk.js.map",
     "index.html": "/certificates/index.html",
     "static/css/main.083d9848.chunk.css.map": "/certificates/static/css/main.083d9848.chunk.css.map",
-    "static/js/2.d48397b9.chunk.js.LICENSE.txt": "/certificates/static/js/2.d48397b9.chunk.js.LICENSE.txt"
+    "static/js/2.d48397b9.chunk.js.LICENSE.txt": "/certificates/static/js/2.d48397b9.chunk.js.LICENSE.txt",
+    "static/media/mta.94e2cf9e.jpg": "/certificates/static/media/mta.94e2cf9e.jpg"
   },
   "entrypoints": [
     "static/js/runtime-main.3938d91f.js",
     "static/js/2.d48397b9.chunk.js",
     "static/css/main.083d9848.chunk.css",
-    "static/js/main.937cb234.chunk.js"
+    "static/js/main.68d42729.chunk.js"
   ]
 }
