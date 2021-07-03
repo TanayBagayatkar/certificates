@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/certificates/static/css/main.083d9848.chunk.css",
-    "main.js": "/certificates/static/js/main.68d42729.chunk.js",
-    "main.js.map": "/certificates/static/js/main.68d42729.chunk.js.map",
+    "main.js": "/certificates/static/js/main.e595d9d1.chunk.js",
+    "main.js.map": "/certificates/static/js/main.e595d9d1.chunk.js.map",
     "runtime-main.js": "/certificates/static/js/runtime-main.3938d91f.js",
     "runtime-main.js.map": "/certificates/static/js/runtime-main.3938d91f.js.map",
     "static/js/2.d48397b9.chunk.js": "/certificates/static/js/2.d48397b9.chunk.js",
@@ -12,12 +12,22 @@
     "index.html": "/certificates/index.html",
     "static/css/main.083d9848.chunk.css.map": "/certificates/static/css/main.083d9848.chunk.css.map",
     "static/js/2.d48397b9.chunk.js.LICENSE.txt": "/certificates/static/js/2.d48397b9.chunk.js.LICENSE.txt",
-    "static/media/mta.94e2cf9e.jpg": "/certificates/static/media/mta.94e2cf9e.jpg"
+    "static/media/abhigyaan.e5f07122.jpg": "/certificates/static/media/abhigyaan.e5f07122.jpg",
+    "static/media/cloud.db094731.jpg": "/certificates/static/media/cloud.db094731.jpg",
+    "static/media/coursera-bootstrap.213ffa02.jpg": "/certificates/static/media/coursera-bootstrap.213ffa02.jpg",
+    "static/media/coursera-python.18578bd3.jpg": "/certificates/static/media/coursera-python.18578bd3.jpg",
+    "static/media/google.58c77462.jpg": "/certificates/static/media/google.58c77462.jpg",
+    "static/media/ignium.8264c947.jpg": "/certificates/static/media/ignium.8264c947.jpg",
+    "static/media/mta.94e2cf9e.jpg": "/certificates/static/media/mta.94e2cf9e.jpg",
+    "static/media/problemsolvingbasic.5002c1e4.png": "/certificates/static/media/problemsolvingbasic.5002c1e4.png",
+    "static/media/reactbasic.4ab2e28d.png": "/certificates/static/media/reactbasic.4ab2e28d.png",
+    "static/media/rpa.983fa08e.jpg": "/certificates/static/media/rpa.983fa08e.jpg",
+    "static/media/tempdiploma.6e54168f.jpg": "/certificates/static/media/tempdiploma.6e54168f.jpg"
   },
   "entrypoints": [
     "static/js/runtime-main.3938d91f.js",
     "static/js/2.d48397b9.chunk.js",
     "static/css/main.083d9848.chunk.css",
-    "static/js/main.68d42729.chunk.js"
+    "static/js/main.e595d9d1.chunk.js"
   ]
 }
